@@ -1,5 +1,5 @@
 
-public class Pessoa {
+public abstract class Pessoa {
     
     private int codigo;
     private String nome;
